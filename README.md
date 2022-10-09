@@ -1,4 +1,4 @@
 # Exercicio2
-Repositório destinado a solução do exercício 2 da lista sequencial de java
+Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
 RA: 322125103 - ISABELA GONÇALVES CARDOSO
